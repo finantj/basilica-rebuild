@@ -1,0 +1,48 @@
+Help
+ 
+Page Up/Down = Scroll text
+ 
+ESC = Preface / Chronology of St Francis / Abbreviations and Bibliography /
+      Options / Credits / Quit
+ 
+F1  = Display this screen
+F2  = Display history information
+F3  = Display layout information
+F4  = Display artwork information
+F5  = Display narratives information
+F6  = Display nave information
+F7  = Display transept information
+F8  = Display apse information
+F9  = Display vault information
+F10 = Display window information
+F11 = Cycle screen resolution (use Shift+F11 to cycle backwards)
+F12 = Quit
+ 
+Alt + Return = Toggle full screen video mode
+ 
+Right mouse click = Toggle hotspot mode on/off
+ 
+Left mouse click = Display hotspot text
+ 
+Tab = Toggle movement key sets (arrow keys or W/S/A/D)
+ 
+P = Toggle 1st/3rd person view mode
+ 
++/= (plus or equals sign) = Take screenshot
+    Screenshots are saved in the basilica install directory, typically
+    C:\Program Files\Institute of Digital Theology\Basilica of St. Francis, 
+    and are named 'screenshot0.png', 'screenshot1.png', and so on.
+ 
+Shift + movement keys = Run
+ 
+Space = Jump (if walk mode) / Move up (if fly mode)
+ 
+Alt = Move down (if fly mode)
+ 
+Home / End = Restart at main door / lower church entrance
+ 
+Pause = Toggle sound on/off
+ 
+Ctrl = Toggle fly/walk mode
+ 
+1, 2, 3, 4 = Display maps/schemas: general layout / nave / apse / transept
